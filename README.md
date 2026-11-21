@@ -1,4 +1,4 @@
-# Simple Social
+# FastAPI - Image and Video Sharing
 
 A social media application for sharing images and videos. It uses **FastAPI** for the backend, **Streamlit** for the interface, **SQLite** for data storage, and **ImageKit** for media hosting.
 
